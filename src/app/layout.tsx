@@ -8,9 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Aliu Sunday Adukwu - Data Analyst | Full-Stack Developer Portfolio",
+  title: "Aliu Sunday Adukwu - Data Analyst & Full-Stack Developer Portfolio",
   description:
-    "Data analyst | Full-Stack Developer portfolio website of Aliu Sunday Adukwu, focus on data analytics using SQL, Python, Spreadsheet, Tableau, Power BI to deliver insights and solutions also skilled as .Net Developer.",
+    "Data analyst & Full-Stack Developer portfolio website of Aliu Sunday Adukwu, focus on data analytics using SQL, Python, Spreadsheet, Tableau, Power BI to deliver insights and solutions also skilled as .Net Developer.",
   keywords: [
     "Data Analyst",
     "Portfolio",

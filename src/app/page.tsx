@@ -77,7 +77,7 @@ function HeroSection() {
             {/* Badge */}
             <div className="inline-block mb-8">
               <span className="badge-outline text-sm md:text-base">
-                DATA ANALYST | FULL-STACK DEVELOPER <span className="text-white">PORTFOLIO</span>
+                DATA ANALYST & FULL-STACK DEVELOPER <span className="text-white">PORTFOLIO</span>
               </span>
             </div>
 
@@ -155,12 +155,11 @@ function AboutSection() {
             <p className="text-gray-300 leading-relaxed mb-6">
               <span className="text-[#e3c783] font-semibold">Data Reporting / Analyst</span> and{" "}
               <span className="text-[#e3c783] font-semibold"> Full-Stack .NET Developer </span> 
-             experienced in building end-to-end solutions that turn data into actionable insights and modern applications. I design scalable systems, data pipelines, and interactive dashboards that support data-driven decisions and reliable software.
+             experienced in building end-to-end solutions that turn data into actionable insights and modern web applications. I design scalable systems, data pipelines, and interactive dashboards that enable data-driven decisions and reliable software delivery.
              Proficient in{" "}
               <span className="text-[#e3c783] font-semibold">
-             SQL, Python, C#, .NET, Angular, Excel, Power BI, Tableau, and Looker Studio, with hands-on experience across the full data lifecycle from extraction and processing to application development, automated reporting, and dashboarding.
-              </span>{" "}
-             I bridge data, engineering, and business needs by analyzing requirements, modeling data, building software and dashboards, and clearly communicating insights to both technical and non-technical stakeholders, delivering solutions that are robust, actionable, and impactful.
+             SQL, Python, C#, .NET, Angular, JavaScript, Excel, Power BI, Tableau, and Looker Studio, </span>{" "} with hands-on experience across the full data lifecycle-from extraction and transformation to application development, automated reporting, and dashboarding. 
+             I bridge data, engineering, and business needs by analyzing requirements, modeling data, building software and dashboards, and clearly communicating insights to both technical and non-technical stakeholders to deliver solutions that are robust, actionable, and impactful.
             </p>
 
               {/* Social Links */}
@@ -232,6 +231,7 @@ function SkillsSection() {
     { name: "Python" },
     { name: "C#" },
     { name: "ASP .NET" },
+    { name: "JavaScript" },
     { name: "Angular" },
   ];
 
