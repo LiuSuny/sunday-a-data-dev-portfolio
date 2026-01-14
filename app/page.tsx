@@ -597,11 +597,15 @@ function ProjectsSection() {
       subtitle: "SCALABLE ONLINE STORE BUILT WITH .NET CORE AND ANGULAR",
       description:
         "A production-ready online marketplace built with ASP.NET Core Web API and Angular. Features complete retail functionality including product management, secure payments, user authentication, and order processing. Delivers insights on sales performance, inventory efficiency, and customer behavior to optimize pricing and promotional strategies. Built with scalability, maintainability, and modern development practices.",
-      tools: "ASP.NET Core Web API, Angular, Entity Framework, SQL Server, Azure, Stripe API, Docker, kubernetes",
+      tools: "ASP.NET Core Web API, Angular, Entity Framework, SQL Server, Azure, Stripe API, Docker, Redis",
       analysis: "E-commerce Functionality, Sales Analytics, User Behavior Tracking",
       image: "/images/skinet-1.png",
       secondImage: "/images/skinet-2.png",
       links: [
+        {
+          label: "🌐 View Live Application",
+          url: "https://skineproject.azurewebsites.net/",
+        },
         {
           label: "Github Repository",
           url: "https://github.com/LiuSuny/Skinet-Ecommerce",
